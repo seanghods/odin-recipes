@@ -1,0 +1,1 @@
+This is the first project of the Odin Foundations, called Recipes, meant to recap HTML Foundations
